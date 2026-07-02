@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Ideator"
+  short_description: "Generate CCF A ideas with verified metrics and role agents."
+  default_prompt: "Use The Ideator to generate, check, and rank new AI method ideas for a specified subfield and target venue. First ask for local prior project directories, then retrieval-verify recent reported metrics with source/table/page evidence, run Agent A/B/C role-specific brainstorming when available, and ask before reproducing baselines."
